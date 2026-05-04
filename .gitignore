@@ -1,0 +1,44 @@
+# Datasets and large files
+Dataset_Helmet.zip
+helmet_dataset/
+raw_dataset/
+data/
+output_results/
+yolov8n.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+venv/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
